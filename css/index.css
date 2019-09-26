@@ -3,8 +3,9 @@
 	.kv{
 		padding: 200px 0 150px;
 	}
-		font-size: 1.6rem;
+	.kv .hello{
 		display: block;
+		font-size: 1.6rem;
 		margin-bottom: 10px;
 	}
 /*---------works-------------*/
