@@ -16,7 +16,7 @@ $(function() {
 	    distance: '20px',
 	    scale:1,
 	    easing:'ease-in-out',
-	    duration: 500,
+	    duration: 600,
 	    viewFactor: 0.5
     });
     sr.reveal('.reveal_bottom', {
