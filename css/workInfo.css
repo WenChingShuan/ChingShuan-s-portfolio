@@ -128,6 +128,11 @@
 		.intor .description b{
 			display: none;
 		}
+		.intor .category p,
+		.intor .belong_list p,
+		.intor .belong_list a{
+			font-size: 1rem;
+		}
 	}
 	@media screen and (max-width: 420px){
 		.intor .belong_list {

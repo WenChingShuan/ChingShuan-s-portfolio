@@ -230,6 +230,9 @@
 		    padding: 12px;
 		    margin: 0 3px;
 		}
+		.gallery .box .photo p{
+			font-size: 1rem;
+		}
 	}
 	@media screen and (max-width: 620px){
 		.mobile_tabBlock{
