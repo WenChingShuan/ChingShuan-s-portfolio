@@ -217,6 +217,16 @@
 			line-height: 1.6em;
 			font-size: .9rem;
 		}
+		.works_tab li:hover{
+			-moz-transform:translateX(0);
+			-webkit-transform:translateX(0);
+			-o-transform:translateX(0);
+			-ms-transform:translateX(0);
+			transform:translateX(0);
+		}
+		.works_tab li:hover:before{
+			display: none;
+		}
 	}
 	@media screen and (max-width: 768px){
 		.gallery li {
