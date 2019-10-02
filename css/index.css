@@ -214,6 +214,7 @@
 	}
 	.kv .itemBox .txt h2{
 		font-size: 1.8vw;
+		line-height: 1.5;
 	}
 	.kv .itemBox .point{
 		position: absolute;
