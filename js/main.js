@@ -23,7 +23,7 @@ $(function() {
         origin:'bottom',
         delay: 0
     });
-    sr.reveal('.reveal_Lleft', {
+    sr.reveal('.xLleft', {
         origin:'left'
     });
     sr.reveal('.reveal_right', {
@@ -36,6 +36,56 @@ $(function() {
         distance: '0px',
         scale:0.9
     });
+    //kv
+    sr.reveal('.reveal_bottom_01', {
+        origin:'bottom',
+        delay: 200
+    });
+    sr.reveal('.reveal_bottom_02', {
+        origin:'bottom',
+        delay: 300
+    });
+    sr.reveal('.reveal_bottom_03', {
+        origin:'bottom',
+        delay: 400
+    });
+    sr.reveal('.reveal_bottom_04', {
+        origin:'bottom',
+        delay: 500
+    });
+    sr.reveal('.reveal_bottom_05', {
+        origin:'bottom',
+        delay: 600
+    });
+    sr.reveal('.reveal_bottom_06', {
+        origin:'bottom',
+        delay: 700
+    });
+    sr.reveal('.reveal_bottom_07', {
+        origin:'bottom',
+        delay: 800
+    });
+    sr.reveal('.reveal_bottom_08', {
+        origin:'bottom',
+        delay: 900
+    });
+    sr.reveal('.reveal_bottom_09', {
+        origin:'bottom',
+        delay: 1000
+    });
+    sr.reveal('.reveal_bottom_10', {
+        origin:'bottom',
+        delay: 1100
+    });
+    sr.reveal('.reveal_bottom_11', {
+        origin:'bottom',
+        delay: 1200
+    });
+    sr.reveal('.reveal_bottom_12', {
+        origin:'bottom',
+        delay: 1200
+    });
+
 
     // smooth scrollTo
 	$('a[href*="#"]:not([href="#"])').click(function () {
