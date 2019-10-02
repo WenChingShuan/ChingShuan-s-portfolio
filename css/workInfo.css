@@ -1,4 +1,16 @@
 /*---------main--------------*/
+	.btn .next{
+		position: relative;
+		display: inline-block;
+		width: 18px;
+		height: 18px;
+		vertical-align: middle;
+		margin-left: 8px;
+		z-index: 2;
+	}
+	.nextBox{
+		margin-top: 20px;
+	}
 /*---------intor-------------*/
 	.intor{
 		position: fixed;

@@ -436,6 +436,12 @@
 	.btn:hover:before{
 		width: 100%;
 	}
+	.btn.dark{
+		background-color: #304AAA;
+	}
+	.btn.dark:before{
+		background-color: #F8B62D;
+	}
 	.btn p{
 		position: relative;
 		display: inline-block;
@@ -451,6 +457,7 @@
 		margin-right: 8px;
 		z-index: 2;
 	}
+	
 /* ----------ICON----------- */
 	.icon-xxs{
 		display: inline-block;
